@@ -1,0 +1,12 @@
+{
+  "name": "My Super Bot",
+  "description": "A cool Telegram bot for JEE/NEET study resources",
+  "version": "1.0",
+  "commands": [
+    {
+      "command": "start",
+      "type": "text",
+      "text": "Welcome to the JEE/NEET Bot!"
+    }
+  ]
+}
