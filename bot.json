@@ -2,6 +2,7 @@
   "name": "My Super Bot",
   "description": "A cool Telegram bot for JEE/NEET study resources",
   "version": "1.0",
+  "bb_sync_version": "1.0",
   "commands": [
     {
       "command": "start",
